@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2307,
+          31.46898
+        ]
+      },
+      "properties": {
+        "zone_id": "Z01",
+        "zone_name": "Shahdara",
+        "population": 56905,
+        "flood_exposure": 39,
+        "drainage_vulnerability": 23,
+        "rainfall_risk": 77,
+        "infrastructure_vulnerability": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22061,
+          31.42636
+        ]
+      },
+      "properties": {
+        "zone_id": "Z02",
+        "zone_name": "Baghbanpura",
+        "population": 21717,
+        "flood_exposure": 94,
+        "drainage_vulnerability": 31,
+        "rainfall_risk": 67,
+        "infrastructure_vulnerability": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.35429,
+          31.5632
+        ]
+      },
+      "properties": {
+        "zone_id": "Z03",
+        "zone_name": "Township",
+        "population": 30247,
+        "flood_exposure": 89,
+        "drainage_vulnerability": 23,
+        "rainfall_risk": 65,
+        "infrastructure_vulnerability": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.20143,
+          31.58189
+        ]
+      },
+      "properties": {
+        "zone_id": "Z04",
+        "zone_name": "Model Town",
+        "population": 42493,
+        "flood_exposure": 53,
+        "drainage_vulnerability": 77,
+        "rainfall_risk": 67,
+        "infrastructure_vulnerability": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.36797,
+          31.46306
+        ]
+      },
+      "properties": {
+        "zone_id": "Z05",
+        "zone_name": "Gulberg",
+        "population": 25463,
+        "flood_exposure": 79,
+        "drainage_vulnerability": 63,
+        "rainfall_risk": 47,
+        "infrastructure_vulnerability": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.33282,
+          31.5895
+        ]
+      },
+      "properties": {
+        "zone_id": "Z06",
+        "zone_name": "Johar Town",
+        "population": 21698,
+        "flood_exposure": 36,
+        "drainage_vulnerability": 68,
+        "rainfall_risk": 36,
+        "infrastructure_vulnerability": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2645,
+          31.43576
+        ]
+      },
+      "properties": {
+        "zone_id": "Z07",
+        "zone_name": "Wagah",
+        "population": 17847,
+        "flood_exposure": 83,
+        "drainage_vulnerability": 88,
+        "rainfall_risk": 37,
+        "infrastructure_vulnerability": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.25014,
+          31.42916
+        ]
+      },
+      "properties": {
+        "zone_id": "Z08",
+        "zone_name": "Harbanspura",
+        "population": 56198,
+        "flood_exposure": 71,
+        "drainage_vulnerability": 93,
+        "rainfall_risk": 42,
+        "infrastructure_vulnerability": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.29975,
+          31.49603
+        ]
+      },
+      "properties": {
+        "zone_id": "Z09",
+        "zone_name": "Nishtar Colony",
+        "population": 33965,
+        "flood_exposure": 35,
+        "drainage_vulnerability": 49,
+        "rainfall_risk": 85,
+        "infrastructure_vulnerability": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3544,
+          31.55404
+        ]
+      },
+      "properties": {
+        "zone_id": "Z10",
+        "zone_name": "Samanabad",
+        "population": 38909,
+        "flood_exposure": 45,
+        "drainage_vulnerability": 67,
+        "rainfall_risk": 52,
+        "infrastructure_vulnerability": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.28348,
+          31.45268
+        ]
+      },
+      "properties": {
+        "zone_id": "Z11",
+        "zone_name": "Icchra",
+        "population": 59796,
+        "flood_exposure": 34,
+        "drainage_vulnerability": 41,
+        "rainfall_risk": 64,
+        "infrastructure_vulnerability": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.20706,
+          31.46581
+        ]
+      },
+      "properties": {
+        "zone_id": "Z12",
+        "zone_name": "Mughalpura",
+        "population": 56943,
+        "flood_exposure": 53,
+        "drainage_vulnerability": 61,
+        "rainfall_risk": 83,
+        "infrastructure_vulnerability": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.32478,
+          31.60263
+        ]
+      },
+      "properties": {
+        "zone_id": "Z13",
+        "zone_name": "Shad Bagh",
+        "population": 35673,
+        "flood_exposure": 76,
+        "drainage_vulnerability": 54,
+        "rainfall_risk": 34,
+        "infrastructure_vulnerability": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4012,
+          31.49913
+        ]
+      },
+      "properties": {
+        "zone_id": "Z14",
+        "zone_name": "Ravi Road",
+        "population": 62049,
+        "flood_exposure": 65,
+        "drainage_vulnerability": 47,
+        "rainfall_risk": 71,
+        "infrastructure_vulnerability": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31858,
+          31.569
+        ]
+      },
+      "properties": {
+        "zone_id": "Z15",
+        "zone_name": "Data Ganj Bakhsh",
+        "population": 45071,
+        "flood_exposure": 43,
+        "drainage_vulnerability": 53,
+        "rainfall_risk": 38,
+        "infrastructure_vulnerability": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.41946,
+          31.46386
+        ]
+      },
+      "properties": {
+        "zone_id": "Z16",
+        "zone_name": "Green Town",
+        "population": 63956,
+        "flood_exposure": 79,
+        "drainage_vulnerability": 94,
+        "rainfall_risk": 55,
+        "infrastructure_vulnerability": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.23363,
+          31.59222
+        ]
+      },
+      "properties": {
+        "zone_id": "Z17",
+        "zone_name": "Walton",
+        "population": 48392,
+        "flood_exposure": 88,
+        "drainage_vulnerability": 31,
+        "rainfall_risk": 78,
+        "infrastructure_vulnerability": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.30297,
+          31.53918
+        ]
+      },
+      "properties": {
+        "zone_id": "Z18",
+        "zone_name": "Faisal Town",
+        "population": 25484,
+        "flood_exposure": 79,
+        "drainage_vulnerability": 28,
+        "rainfall_risk": 54,
+        "infrastructure_vulnerability": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.31813,
+          31.55634
+        ]
+      },
+      "properties": {
+        "zone_id": "Z19",
+        "zone_name": "Allama Iqbal Town",
+        "population": 31476,
+        "flood_exposure": 95,
+        "drainage_vulnerability": 21,
+        "rainfall_risk": 73,
+        "infrastructure_vulnerability": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.20071,
+          31.45163
+        ]
+      },
+      "properties": {
+        "zone_id": "Z20",
+        "zone_name": "Gulshan-e-Ravi",
+        "population": 32486,
+        "flood_exposure": 68,
+        "drainage_vulnerability": 34,
+        "rainfall_risk": 48,
+        "infrastructure_vulnerability": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22341,
+          31.52154
+        ]
+      },
+      "properties": {
+        "zone_id": "Z21",
+        "zone_name": "Chah Miran",
+        "population": 62323,
+        "flood_exposure": 58,
+        "drainage_vulnerability": 84,
+        "rainfall_risk": 78,
+        "infrastructure_vulnerability": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.36775,
+          31.45057
+        ]
+      },
+      "properties": {
+        "zone_id": "Z22",
+        "zone_name": "Anarkali",
+        "population": 55979,
+        "flood_exposure": 63,
+        "drainage_vulnerability": 84,
+        "rainfall_risk": 68,
+        "infrastructure_vulnerability": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22461,
+          31.51772
+        ]
+      },
+      "properties": {
+        "zone_id": "Z23",
+        "zone_name": "Garhi Shahu",
+        "population": 50348,
+        "flood_exposure": 92,
+        "drainage_vulnerability": 20,
+        "rainfall_risk": 68,
+        "infrastructure_vulnerability": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.40833,
+          31.5956
+        ]
+      },
+      "properties": {
+        "zone_id": "Z24",
+        "zone_name": "Cantonment",
+        "population": 38788,
+        "flood_exposure": 64,
+        "drainage_vulnerability": 50,
+        "rainfall_risk": 33,
+        "infrastructure_vulnerability": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.22825,
+          31.57317
+        ]
+      },
+      "properties": {
+        "zone_id": "Z25",
+        "zone_name": "Askari",
+        "population": 20613,
+        "flood_exposure": 87,
+        "drainage_vulnerability": 28,
+        "rainfall_risk": 78,
+        "infrastructure_vulnerability": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.29309,
+          31.59449
+        ]
+      },
+      "properties": {
+        "zone_id": "Z26",
+        "zone_name": "Sabzazar",
+        "population": 46148,
+        "flood_exposure": 95,
+        "drainage_vulnerability": 41,
+        "rainfall_risk": 46,
+        "infrastructure_vulnerability": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.34777,
+          31.4998
+        ]
+      },
+      "properties": {
+        "zone_id": "Z27",
+        "zone_name": "Wahdat Colony",
+        "population": 28880,
+        "flood_exposure": 94,
+        "drainage_vulnerability": 45,
+        "rainfall_risk": 75,
+        "infrastructure_vulnerability": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.21409,
+          31.46958
+        ]
+      },
+      "properties": {
+        "zone_id": "Z28",
+        "zone_name": "Thokar Niaz Baig",
+        "population": 39472,
+        "flood_exposure": 81,
+        "drainage_vulnerability": 86,
+        "rainfall_risk": 58,
+        "infrastructure_vulnerability": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.35573,
+          31.42144
+        ]
+      },
+      "properties": {
+        "zone_id": "Z29",
+        "zone_name": "Raiwind Road",
+        "population": 16378,
+        "flood_exposure": 95,
+        "drainage_vulnerability": 49,
+        "rainfall_risk": 67,
+        "infrastructure_vulnerability": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.21559,
+          31.59193
+        ]
+      },
+      "properties": {
+        "zone_id": "Z30",
+        "zone_name": "Shalimar",
+        "population": 18858,
+        "flood_exposure": 54,
+        "drainage_vulnerability": 28,
+        "rainfall_risk": 87,
+        "infrastructure_vulnerability": 24
+      }
+    }
+  ]
+}

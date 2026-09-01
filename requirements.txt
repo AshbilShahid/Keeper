@@ -1,6 +1,7 @@
 pandas>=2.0
 ortools>=9.9
 gradio>=4.0
+plotly>=5.18
 folium>=0.15
 fpdf2>=2.7
 geopandas>=0.14

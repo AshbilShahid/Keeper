@@ -1,0 +1,22 @@
+{
+  "objectives": [
+    {
+      "id": "maximum_population_benefit",
+      "label": "Protect maximum population",
+      "population_weight": 1.0,
+      "risk_weight": 0.0
+    },
+    {
+      "id": "maximum_risk_reduction",
+      "label": "Reduce maximum risk",
+      "population_weight": 0.0,
+      "risk_weight": 1.0
+    },
+    {
+      "id": "balanced",
+      "label": "Balanced investment",
+      "population_weight": 0.5,
+      "risk_weight": 0.5
+    }
+  ]
+}

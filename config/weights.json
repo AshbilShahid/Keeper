@@ -1,0 +1,9 @@
+{
+  "flood": {
+    "flood_exposure": 0.35,
+    "drainage_vulnerability": 0.30,
+    "rainfall_risk": 0.20,
+    "infrastructure_vulnerability": 0.15
+  },
+  "_note": "Weights per scenario, must sum to 1.0. Add a new top-level key (e.g. 'heat') to support a new scenario without touching src/risk_engine.py."
+}

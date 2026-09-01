@@ -1,0 +1,11 @@
+{
+  "city_id": "lahore",
+  "city_name": "Lahore",
+  "country": "Pakistan",
+  "center": { "lat": 31.52, "lon": 74.32 },
+  "default_zoom": 11,
+  "zones_file": "data/sample/zones.csv",
+  "currency": "PKR",
+  "default_scenario": "flood",
+  "default_budget": 100000000
+}

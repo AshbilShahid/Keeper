@@ -1,0 +1,45 @@
+{
+  "_note": "Illustrative cost/effectiveness assumptions for the demo. Replace with cited engineering/planning sources before treating outputs as more than decision-support estimates.",
+  "interventions": [
+    {
+      "id": "drainage_upgrade",
+      "name": "Drainage Upgrade",
+      "cost": 12400000,
+      "risk_reduction": 0.25,
+      "population_effectiveness": 0.80,
+      "implementation_capacity": 5
+    },
+    {
+      "id": "drain_maintenance",
+      "name": "Drain Maintenance",
+      "cost": 3200000,
+      "risk_reduction": 0.10,
+      "population_effectiveness": 0.55,
+      "implementation_capacity": 10
+    },
+    {
+      "id": "retention_infrastructure",
+      "name": "Retention Infrastructure",
+      "cost": 18100000,
+      "risk_reduction": 0.32,
+      "population_effectiveness": 0.70,
+      "implementation_capacity": 3
+    },
+    {
+      "id": "green_infrastructure",
+      "name": "Green Infrastructure",
+      "cost": 9800000,
+      "risk_reduction": 0.18,
+      "population_effectiveness": 0.60,
+      "implementation_capacity": 6
+    },
+    {
+      "id": "flood_barrier",
+      "name": "Flood Barrier",
+      "cost": 22500000,
+      "risk_reduction": 0.40,
+      "population_effectiveness": 0.85,
+      "implementation_capacity": 2
+    }
+  ]
+}
